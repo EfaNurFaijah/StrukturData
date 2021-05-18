@@ -1,0 +1,2 @@
+# StrukturData
+Tugas 1
